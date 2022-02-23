@@ -20,7 +20,7 @@
 <a id="desc"></a>
 ## 1.Description
 
-Full Stack React application that uses Apollo-server-express, graphql and mongodb to store data and run the server. In this application you can create an account and login. Then you can search books and add the them to your book library. When you are inside your library you can delete the books. Other techs used for this project.
+Full Stack React application that uses Apollo-server-express, graphql and mongodb to store data and run the server. In this application you can create an account and later login. Then you can search for books read the description with a picture, title, and author. Then you can add them to your book library. When you are inside your library you can delete the books.
 
 <a id="inst"></a>
 Live linked website down below.
@@ -52,6 +52,6 @@ OPEN CONTRIBUTION
 Ludie Lambright
 ludiefletcher@gmail.com
 
-[Website Live Link](https://veidul-book-search-engine.netlify.app/)
+[Website Live Link](https://veidul-book-search-engine.herokuapp.com/)
 
-![Screenshot](./src/components/img/screenshot.png)
+![Screenshot](./client/src/components/img/screenshot.png)
