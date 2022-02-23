@@ -5,8 +5,8 @@
   "main": "server/server.js",
   "scripts": {
     "start": "npm install",
-    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
-    "install": "cd server && npm i && cd ../client && npm i",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd client && node server/server.js\"",
+    "install": "cd server && npm i && cd ../client && npm i && npm run develop",
     "build": "cd client && npm run build"
   },
   "keywords": [],
