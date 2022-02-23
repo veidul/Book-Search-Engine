@@ -45,13 +45,13 @@ OPEN CONTRIBUTION
 
 [GitHub](https://github.com/veidul)
 
-[GitHub Repository](https://github.com/veidul/book-search-engine)
+[GitHub Repository](https://github.com/veidul/Book-Search-Engine)
 
 <a id="conta"></a>
 ## 7.Contact Me
 Ludie Lambright
 ludiefletcher@gmail.com
 
-[Website Live Link](https://veidul-react-portfolio.netlify.app)
+[Website Live Link](https://veidul-book-search-engine.netlify.app/)
 
 ![Screenshot](./src/components/img/screenshot.png)
