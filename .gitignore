@@ -13,8 +13,6 @@
 
 # production
 /build
-DISABLE_ESLINT_PLUGIN=true
-
 
 # misc
 .DS_Store
